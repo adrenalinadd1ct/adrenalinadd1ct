@@ -4,6 +4,6 @@ I have experience with:
 * Low-Level code (mainly system programming)
 * Some network programming (SOME is a very optimistic word)
 * VERY low level (writing kernels, firmware, and some drivers)
-* Cybersecurity<br>
+* Cybersecurity<br><br>
 If you want to contact me, contact witherx3d on discord (@witherx3d), or just search witherx3d on any notable social media<br>
 Bye.
